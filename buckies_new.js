@@ -1,5 +1,7 @@
 var buckies = {"type": "FeatureCollection", "features": [
 
+{"geometry": {"type": "Point", "coordinates": [-89.411003, 43.059313]}, "type": "Feature", "properties": {"name": "Badger in the Zoo", "description": "Buck is sitting in the beside the Badger house.", "locationName": "Henry Vilas Zoo", "artistName": "", "sponsor": "", "address": "702 S Randall Ave, Madison, WI 53715", "id": "0", "imgFileName": "0_BadgerintheZoo.jpg"}},
+
 {"geometry": {"type": "Point", "coordinates": [-89.407516, 43.071506]}, "type": "Feature", "properties": {"name": "Angry Bucky", "description": "Young Bucky seems angry inside the Union South.", "locationName": "Union South (indoor)", "artistName": "", "sponsor": "", "address": "1308 W Dayton St, Madison, WI 53715", "id": "0", "imgFileName": "0_AngryBucky.jpg"}}, 
 
 {"geometry": {"type": "Point", "coordinates": [-89.395767, 43.074635]}, "type": "Feature", "properties": {"name": "Baby Badgers and Mom", "description": "Two baby badgers and their mom.", "locationName": "State Steet Brats", "artistName": "", "sponsor": "", "address": "603 State St, Madison, WI 53703", "id": "0", "imgFileName": "0_BabyBadgersandMom.jpg"}}, 
